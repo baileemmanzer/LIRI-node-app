@@ -11,7 +11,6 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 ## GIFS/VIDEOS/SCREENSHOTS
 Deployed App
 Here is the link to the deployed applications-->
-<<<<<<< HEAD
 ![image](images/concert-this.png)
 
 ![image](images/spotify-this-song1.png)
@@ -23,27 +22,13 @@ Here is the link to the deployed applications-->
 ![image](images/movie-this2.png)
 
 ![image](images/do-what-it-says.png)
-=======
-
-![image](concert-this.jpg)
-
-![image](spotify-this-song1)
-
-![image](spotify-this-song2)
-
-![image](movie-this1)
-
-![image](movie-this2)
-
-![image](do-what-it-says)
->>>>>>> 5c725fd84807a5a986767c2bb7cb0c97b8182141
 
 ## Technologies Used
-1.Axios
-2.Node-Spotify-API
-3.OMDB API
-4.Bands in Town API
-5.Moment
-6.DotEnv
-7.HTML
-8.CSS
+1. Axios
+2. Node-Spotify-API
+3. OMDB API
+4. Bands in Town API
+5. Moment
+6. DotEnv
+7. HTML
+8. CSS
