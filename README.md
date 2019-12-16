@@ -12,16 +12,20 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 Deployed App
 Here is the link to the deployed applications-->  https://baileemmanzer.github.io/LIRI-node-app/
 
+concert-this command:
 ![image](images/concert-this.png)
 
+spotify-this-song command:
 ![image](images/spotify-this-song1.png)
 
 ![image](images/spotify-this-song2.png)
 
+movie-this command:
 ![image](images/movie-this1.png)
 
 ![image](images/movie-this2.png)
 
+do-what-it-says command:
 ![image](images/do-what-it-says.png)
 
 ## Technologies Used
