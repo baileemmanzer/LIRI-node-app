@@ -11,12 +11,17 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 ## GIFS/VIDEOS/SCREENSHOTS
 Deployed App
 Here is the link to the deployed applications-->
-![image](concert-this.jpg)
-![image](spotify-this-song1)
-![image](spotify-this-song2)
-![image](movie-this1)
-![image](movie-this2)
-![image](do-what-it-says)
+![image](images/concert-this.png)
+
+![image](images/spotify-this-song1.png)
+
+![image](images/spotify-this-song2.png)
+
+![image](images/movie-this1.png)
+
+![image](images/movie-this2.png)
+
+![image](images/do-what-it-says.png)
 
 ## Technologies Used
 Axios
