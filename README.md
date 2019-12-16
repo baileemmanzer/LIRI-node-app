@@ -11,7 +11,7 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 ## GIFS/VIDEOS/SCREENSHOTS
 Deployed App
 Here is the link to the deployed applications-->
-![Screenshot 1](concert-this)
+![Screenshot 1](/concert-this)
 ![Screenshot 1](spotify-this-song1)
 ![Screenshot 1](spotify-this-song2)
 ![Screenshot 1](movie-this1)
