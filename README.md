@@ -12,9 +12,9 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 Deployed App
 Here is the link to the deployed applications-->
 
-![image](/concert-this.jpg)
+![image](concert-this.jpg)
 
-![image](/spotify-this-song1)
+![image](spotify-this-song1)
 
 ![image](spotify-this-song2)
 
@@ -25,11 +25,11 @@ Here is the link to the deployed applications-->
 ![image](do-what-it-says)
 
 ## Technologies Used
-Axios
-Node-Spotify-API
-OMDB API
-Bands in Town API
-Moment
-DotEnv
-HTML
-CSS
+1.Axios
+2.Node-Spotify-API
+3.OMDB API
+4.Bands in Town API
+5.Moment
+6.DotEnv
+7.HTML
+8.CSS
