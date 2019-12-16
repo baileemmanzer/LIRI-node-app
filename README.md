@@ -12,10 +12,15 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 Deployed App
 Here is the link to the deployed applications-->
 ![image](concert-this.jpg)
+
 ![image](spotify-this-song1)
+
 ![image](spotify-this-song2)
+
 ![image](movie-this1)
+
 ![image](movie-this2)
+
 ![image](do-what-it-says)
 
 ## Technologies Used
