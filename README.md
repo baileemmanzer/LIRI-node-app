@@ -11,9 +11,10 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 ## GIFS/VIDEOS/SCREENSHOTS
 Deployed App
 Here is the link to the deployed applications-->
-![image](concert-this.jpg)
 
-![image](spotify-this-song1)
+![image](/concert-this.jpg)
+
+![image](/spotify-this-song1)
 
 ![image](spotify-this-song2)
 
