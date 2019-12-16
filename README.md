@@ -10,7 +10,8 @@ There are four different commands you can run: (1)concert-this, (2)spotify-this-
 
 ## GIFS/VIDEOS/SCREENSHOTS
 Deployed App
-Here is the link to the deployed applications-->
+Here is the link to the deployed applications-->  https://baileemmanzer.github.io/LIRI-node-app/
+
 ![image](images/concert-this.png)
 
 ![image](images/spotify-this-song1.png)
